@@ -5,9 +5,9 @@ st.set_page_config(
     page_icon="📊"
 )
 
-st.title("My First Streamlit Application")
+st.title("My very first Streamlit Application lol")
 
-st.write("Welcome! My application is running online.")
+st.write("Welcome! My application is running online.How aboyours?")
 
 name = st.text_input("Enter your name")
 
